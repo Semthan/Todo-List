@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function (e) {
         item.style.color = "white";
         item.style.border = "1px solid red";*/
         
-        item.style.cssText = "width:100%; height:50px; background-color:lightgray; margin:5px; border: 1px solid red; border-radius:5px; color:white; font-size:1.5em;";
+        item.style.cssText = "width:100%; height:50px; background-color:lightgray; margin:5px; border: 1px solid red; border-radius:5px; font-size:1.5em;";
         
  
         //let line = document.createElement("");
